@@ -6,10 +6,10 @@
         id        = "fr.tpvpartners.apps-chic-hotel"
         version   = "1.0.0">
 
-    <name>ExampleApp</name>
+    <name>Chic Hotel</name>
 
     <description>
-        Example app.
+        Présentation Chic Hotel pour TPV Partners
     </description>
 
     <author href="http://www.pedrowill.com" email="contact@pedrowill.com">
